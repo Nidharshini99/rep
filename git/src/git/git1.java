@@ -2,10 +2,10 @@ package git;
 
 public class git1 {
 
-	public static void main(String[] args) {
-		int a=5;
-		int b;
-		System.out.println(a);
+	public int add(int d,int g) {
+		int a=d;
+		int b=g;
+		return (a+b);
 
 	}
 
