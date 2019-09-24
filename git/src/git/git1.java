@@ -6,7 +6,7 @@ public class git1 {
 		int a=d;
 		int b=g;
 		return (d+g);
-
+//.jksbjk
 	}
 
 }
